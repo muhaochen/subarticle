@@ -23,6 +23,5 @@ Make sure you have following required packages installed:
     Python 2.7
     Tensorflow >= 1.2.1
     Keras that supports corresponding Tensorflow version
-    tqdm
 
 To run the cross-validation code, you also need to download these accompanying files from [this link](http://yellowstone.cs.ucla.edu/~muhao/subarticle/accomp/).
